@@ -1,0 +1,48 @@
+{
+  "permissions": {
+    "defaultMode": "bypassPermissions",
+    "allow": [
+      "Bash(git:*)",
+      "Bash(git *)",
+      "Bash(python:*)",
+      "Bash(python *)",
+      "Bash(python -m pytest:*)",
+      "Bash(python -m pytest *)",
+      "Bash(pip:*)",
+      "Bash(pip *)",
+      "Bash(npm:*)",
+      "Bash(npm *)",
+      "Bash(npx:*)",
+      "Bash(npx *)",
+      "Bash(supabase:*)",
+      "Bash(supabase *)",
+      "Bash(uvicorn:*)",
+      "Bash(uvicorn *)",
+      "WebSearch(*)",
+      "WebFetch(*)",
+      "Write(.claude/**)",
+      "Edit(.claude/**)",
+      "Write(agent_reports/**)",
+      "Edit(agent_reports/**)",
+      "Write(memory/**)",
+      "Edit(memory/**)",
+      "Write(docs/**)",
+      "Edit(docs/**)",
+      "Write(scripts/**)",
+      "Edit(scripts/**)",
+      "Write(research/**)",
+      "Edit(research/**)",
+      "Write(CLAUDE.md)",
+      "Edit(CLAUDE.md)",
+      "Write(HANDOFF.md)",
+      "Edit(HANDOFF.md)",
+      "Write(TODOS.md)",
+      "Edit(TODOS.md)",
+      "Write(README.md)",
+      "Edit(README.md)"
+    ]
+  },
+  "env": {
+    "PIRLO_API_KEY": ""
+  }
+}
