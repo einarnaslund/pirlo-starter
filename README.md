@@ -49,12 +49,18 @@ Idéer i [USE_CASES.md](USE_CASES.md). Exempel:
 
 Allt går att köra utan att betala något i början.
 
+## Vad du faktiskt får — exempel
+
+Innan du installerar, ta en titt på [EXAMPLES/](EXAMPLES/) — det är riktiga outputs från flödet (research-rapporter, quickwin-listor, agent-rapporter, projektledare-sessioner). Visar konkret vad du producerar med kommandona.
+
 ## Vidare läsning
 
 - [PIRLO.md](PIRLO.md) — vad Pirlo är + hur du pluggar in
 - [AGENT_BUILDING.md](AGENT_BUILDING.md) — hur agent-workflowen funkar + hur du bygger nya
 - [USE_CASES.md](USE_CASES.md) — konkreta projekt-idéer
 - [VSCODE_SETUP.md](VSCODE_SETUP.md) — VSCode + Drive-sync + Claude Code optimerat
+- [FAQ.md](FAQ.md) — vanliga frågor + felsökning
+- [EXAMPLES/](EXAMPLES/) — riktiga outputs så du ser vad du får
 
 ---
 
